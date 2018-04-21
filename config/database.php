@@ -17,9 +17,9 @@ return [
     // 数据库名
     'database'        => 'jokes',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'jokes',
     // 密码
-    'password'        => 'root',
+    'password'        => 'E90e#7@T-K*U',
     // 端口
     'hostport'        => '',
     // 连接dsn
